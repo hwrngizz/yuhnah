@@ -39,7 +39,7 @@
     "parse-ms": "^2.1.0",
     "pretty-ms": "^7.0.1",
     "tslib": "^2.1.0",
-    "winston": "^3.3.3",
+    "winston": "^3.7.2",
     "youtube-sr": "^4.0.1",
     "ytdl-core": "^4.5.0"
   },
